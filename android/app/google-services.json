@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300565820012",
+    "project_id": "simpanin-id",
+    "storage_bucket": "simpanin-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300565820012:android:e19c6b826af21a1a4dde49",
+        "android_client_info": {
+          "package_name": "com.example.simpanin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLZwLYKwUA13zQ6AxzoomxIdKDt2wnABU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
